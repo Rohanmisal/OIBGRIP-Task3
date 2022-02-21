@@ -1,0 +1,45 @@
+*{
+    background-image:url('img.jpg');
+    color: aliceblue;
+}
+
+label{
+    color: unset;
+    font-size: 22px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 300px;
+    margin-left: 350px;
+    margin-right: 320px;
+    border: 21px solid;
+    border-color: tomato;
+}
+
+input{
+    border-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.button{
+    background-color: black;
+    color: #fff;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 35px;
+    margin: 50px;
+}
+.reset{
+    background-color: green;
+    height: auto;
+    width: 200px;
+    padding: 10px;
+    border-radius: 35px;
+    margin: 50px;
+}
